@@ -1,9 +1,9 @@
-## Prazer, Victor Hugo - Dev FullStack 👨‍💻
+<h1 align="center">Hi 👋, I'm Victor Hugo</h1>
+<h3 align="center">A passionate professional troubleshooter from São Paulo</h3>
 
 <div align="center">
   <a href="https://github.com/tvectorr">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=tvectorr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvectorr&layout=compact&langs_count=7&theme=dark"/>
+  <img height="60%" src="https://github-readme-stats.vercel.app/api?username=tvectorr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
