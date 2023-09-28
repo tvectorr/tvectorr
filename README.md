@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Hugo</h1>
-<h3 align="center">A passionate professional troubleshooter from São Paulo</h3>
+<h3 align="center">A troubleshooter from São Paulo</h3>
 
 <div align="center">
   <a href="https://github.com/tvectorr">
